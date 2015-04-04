@@ -14,8 +14,8 @@ Don't run it on an existing installation that has been used!
 
 NOTE: Sublime Text integration doesn't quite work yet, due to problems with ghc-mod and hdevtools.
 
-https://github.com/kazu-yamamoto/ghc-mod/issues/437
-https://github.com/bitc/hdevtools/issues/39
+* https://github.com/kazu-yamamoto/ghc-mod/issues/437
+* https://github.com/bitc/hdevtools/issues/39
 
 
 Gives you:
