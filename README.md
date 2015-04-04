@@ -5,9 +5,9 @@ Setup for Haskell development on Sublime Text.
 
 1. Install [ElementaryOS](http://elementary.io/)
 2. Run the admin bits
-  * wget link && sudo bash ./run-as-root.sh
+  * wget https://raw.githubusercontent.com/stu-smith/elementary-sublime-haskell/master/run-as-root.sh && sudo bash ./run-as-root.sh
 3. Run the user bits
-  * wget link && bash ./run-as-user.sh
+  * wget https://raw.githubusercontent.com/stu-smith/elementary-sublime-haskell/master/run-as-user.sh && bash ./run-as-user.sh
 
 NOTE: This is intended to be run on a new, clean install of Elementary OS.
 Don't run it on an existing installation that has been used!
